@@ -4,7 +4,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omor777)](https://git.io/streak-stats)
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
