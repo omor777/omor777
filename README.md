@@ -5,9 +5,8 @@
 
 <br />
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=omor777&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=omor777&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omor-faruk-9&label=Profile%20views&color=0e75b6&style=flat" alt="omor-faruk-9" /> </p>
