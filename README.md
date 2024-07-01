@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omor777&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=omor777&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
